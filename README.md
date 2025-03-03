@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Raphael Rezende Santos
+Matricula: 00894528
 
 ## Tela de inspeção com navegador
-
+![Print da inspeção](prints/youtube.png)
 
 ## Tela de projeto no Replit
+![Print do Replit](prints/replit.png)
 
